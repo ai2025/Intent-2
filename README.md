@@ -2,18 +2,8 @@
 
 Screenshoot
 
-Hasil 1
-![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/1.png "")
-
-Hasil 2
-![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/2.png "")
-
-Hasil 3
-![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/3.png "")
-
-Hasil 4
-![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/4.png "")
-
+Hasil
+![ScreenShoot](https://github.com/ai2025/Intent-2/blob/master/1.png "")
 
 * Nama : Aisyatush Shofiah
 * Kelas : XIRPL2
